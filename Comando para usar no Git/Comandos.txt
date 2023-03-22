@@ -1,0 +1,7 @@
+1 - GIT CLONE (e colar o link do repositório copiado lá no gitHub)
+
+2 - CD ( entra no diretório )
+
+3 - GIT STATUS ( verificar status )
+
+4 - GIT ADD . ( para adicionar a pasta ao controle de versão)
