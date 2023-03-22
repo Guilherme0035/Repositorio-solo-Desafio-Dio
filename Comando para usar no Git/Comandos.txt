@@ -5,3 +5,9 @@
 3 - GIT STATUS ( verificar status )
 
 4 - GIT ADD . ( para adicionar a pasta ao controle de versão)
+
+5 - GIT COMMIT -M "comentário" ( criar um commit)
+
+6 - GIT PUSH ORIGIN MAIN ( para adicionar todos os commits para a nuvem *GitHub* )
+                     OU
+                   MASTER
